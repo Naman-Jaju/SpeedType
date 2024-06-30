@@ -1,3 +1,7 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
 :root {
   --text-color: rgb(73 73 73 / 35%);
   --text-color-active: #56595d;
